@@ -1,0 +1,19 @@
+{
+  "name": "velliv-mirror-page-archiver",
+  "version": "2.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Kasper Pedersen <kp@responsive.dk>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csv": "^6.3.6",
+    "mkdirp": "^3.0.1",
+    "puppeteer": "^21.10.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.4"
+  }
+}
